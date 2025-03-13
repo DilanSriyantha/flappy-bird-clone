@@ -1,9 +1,10 @@
 # DynamiteEngine
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/made_with_dynamite_engine_flappy_bird.gif" alt="Banner" width="400">
-</div> 
 
 Dynamite Engine is a lightweight and efficient 2D game engine built with C++ and SDL2. It provides an Entity-Component-System (ECS) architecture, 2D collision detection, sprite animation, and UI components, making it easy to develop high-performance 2D games.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/made_with_dynamite_engine_flappy_bird.gif" alt="Banner" width="800">
+</div> 
 
 ## Features
 
