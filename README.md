@@ -1,4 +1,7 @@
 # DynamiteEngine
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DilanSriyantha/DilanSriyantha/main/made_with_dynamite_engine_flappy_bird.gif" alt="Banner" width="400">
+</div> 
 
 Dynamite Engine is a lightweight and efficient 2D game engine built with C++ and SDL2. It provides an Entity-Component-System (ECS) architecture, 2D collision detection, sprite animation, and UI components, making it easy to develop high-performance 2D games.
 
@@ -41,4 +44,4 @@ Ensure you have the following installed:
 Once you have cloned the repository and opened it in Visual Studio, take a look at ```Scene01.cpp``` file. Follow the same structure to create scenes on your own. The syntax and the system shares common similarities with Unity Engine as a matter of fact.
 
 ## License 
-This project is licensed under the **MIT-License** - see the LICENSE file for details.
+This project is licensed under the **MIT-License** - see the [LICENSE](https://github.com/DilanSriyantha/flappy-bird-clone/tree/main?tab=MIT-1-ov-file) file for details.
